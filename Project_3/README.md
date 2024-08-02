@@ -11,10 +11,7 @@ This project aims to analyze an automotive dataset to understand the factors inf
 7. [Data Preparation](#data-preparation)
 8. [Modeling](#modeling)
 9. [Evaluation](#evaluation)
-10. [Conclusion](#conclusion)
-11. [Dependencies](#dependencies)
-12. [Instructions to Run](#instructions-to-run)
-13. [Author](#author)
+10. [Libraries Used](#Libraries-Used)
 
 ## 1. Business Understanding
 Data science methodology begins with spending the time to seek clarification. What is the problem that you are trying to solve?
